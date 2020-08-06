@@ -1,0 +1,46 @@
+[
+    {
+        "image": "images/couch.jpg",
+      "name": "couch",
+      "price": 88,
+      "seller": "John Smith",
+      "birth": "09/15/2000"
+    },
+    {
+        "image": "images/pen.jpg",
+        "name": "pen",
+        "price": 3,
+        "seller": "Jane Dowe",
+        "birth": "09/12/12"
+      },
+      {
+        "image": "images/blanket.jpg",
+        "name": "blanket",
+        "price": 15,
+        "seller": "Jason Taylor",
+        "birth": "04/18/20"
+      },
+      {
+        "image": "images/seat.jpg",
+        "name": "child seat",
+        "price": 30,
+        "seller": "William Williams",
+        "birth": "01/09/19"
+      },
+      {
+        "image": "images/shirt.jpg",
+        "name": "shirt",
+        "price": 12,
+        "seller": "Sam Richard",
+        "birth": "12/15/2001"
+      },
+      {
+        "image": "images/lighter.jpg",
+        "name": "lighter",
+        "price": 3,
+        "seller": "Alex Reichard",
+        "birth": "09/15/2008"
+      }
+]
+                 
+   
